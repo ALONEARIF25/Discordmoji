@@ -1,0 +1,2336 @@
+[
+  {
+    "name": "smile",
+    "unicode": "😀",
+    "keywords": ["smile", "happy", "face", "grinning"]
+  },
+  {
+    "name": "grinning",
+    "unicode": "😀",
+    "keywords": ["grinning", "smile", "happy"]
+  },
+  {
+    "name": "smiley",
+    "unicode": "😃",
+    "keywords": ["smiley", "smile", "happy", "face"]
+  },
+  { "name": "grin", "unicode": "😁", "keywords": ["grin", "smile", "happy"] },
+  {
+    "name": "laughing",
+    "unicode": "😆",
+    "keywords": ["laughing", "happy", "smile", "laugh"]
+  },
+  {
+    "name": "sweat_smile",
+    "unicode": "😅",
+    "keywords": ["sweat", "smile", "relief", "nervous"]
+  },
+  {
+    "name": "joy",
+    "unicode": "😂",
+    "keywords": ["joy", "tears", "laugh", "happy", "crying"]
+  },
+  {
+    "name": "rofl",
+    "unicode": "🤣",
+    "keywords": ["rofl", "rolling", "floor", "laughing", "lol"]
+  },
+  {
+    "name": "relaxed",
+    "unicode": "☺️",
+    "keywords": ["relaxed", "smile", "blush"]
+  },
+  {
+    "name": "blush",
+    "unicode": "😊",
+    "keywords": ["blush", "smile", "happy", "shy"]
+  },
+  {
+    "name": "innocent",
+    "unicode": "😇",
+    "keywords": ["innocent", "angel", "halo"]
+  },
+  {
+    "name": "slight_smile",
+    "unicode": "🙂",
+    "keywords": ["slight", "smile", "happy"]
+  },
+  {
+    "name": "upside_down",
+    "unicode": "🙃",
+    "keywords": ["upside", "down", "smile", "sarcasm"]
+  },
+  { "name": "wink", "unicode": "😉", "keywords": ["wink", "flirt", "smile"] },
+  {
+    "name": "relieved",
+    "unicode": "😌",
+    "keywords": ["relieved", "relief", "calm"]
+  },
+  {
+    "name": "heart_eyes",
+    "unicode": "😍",
+    "keywords": ["heart", "eyes", "love", "crush"]
+  },
+  {
+    "name": "smiling_face_with_hearts",
+    "unicode": "🥰",
+    "keywords": ["hearts", "love", "smile", "affection"]
+  },
+  {
+    "name": "kissing_heart",
+    "unicode": "😘",
+    "keywords": ["kiss", "heart", "love", "blow"]
+  },
+  { "name": "kissing", "unicode": "😗", "keywords": ["kiss", "kissy", "face"] },
+  {
+    "name": "kissing_smiling_eyes",
+    "unicode": "😙",
+    "keywords": ["kiss", "smile", "eyes"]
+  },
+  {
+    "name": "kissing_closed_eyes",
+    "unicode": "😚",
+    "keywords": ["kiss", "closed", "eyes"]
+  },
+  {
+    "name": "yum",
+    "unicode": "😋",
+    "keywords": ["yum", "delicious", "tongue", "tasty"]
+  },
+  {
+    "name": "stuck_out_tongue",
+    "unicode": "😛",
+    "keywords": ["tongue", "playful"]
+  },
+  {
+    "name": "stuck_out_tongue_winking_eye",
+    "unicode": "😜",
+    "keywords": ["tongue", "wink", "playful"]
+  },
+  {
+    "name": "stuck_out_tongue_closed_eyes",
+    "unicode": "😝",
+    "keywords": ["tongue", "eyes", "closed"]
+  },
+  {
+    "name": "money_mouth",
+    "unicode": "🤑",
+    "keywords": ["money", "rich", "dollar"]
+  },
+  {
+    "name": "hugging",
+    "unicode": "🤗",
+    "keywords": ["hug", "hugging", "embrace"]
+  },
+  {
+    "name": "hand_over_mouth",
+    "unicode": "🤭",
+    "keywords": ["hand", "mouth", "oops", "giggle"]
+  },
+  {
+    "name": "shushing",
+    "unicode": "🤫",
+    "keywords": ["shh", "quiet", "silence"]
+  },
+  {
+    "name": "thinking",
+    "unicode": "🤔",
+    "keywords": ["thinking", "think", "hmm"]
+  },
+  {
+    "name": "zipper_mouth",
+    "unicode": "🤐",
+    "keywords": ["zipper", "mouth", "silence", "secret"]
+  },
+  {
+    "name": "raised_eyebrow",
+    "unicode": "🤨",
+    "keywords": ["eyebrow", "skeptical", "suspicious"]
+  },
+  {
+    "name": "neutral",
+    "unicode": "😐",
+    "keywords": ["neutral", "meh", "straight"]
+  },
+  {
+    "name": "expressionless",
+    "unicode": "😑",
+    "keywords": ["expressionless", "blank", "meh"]
+  },
+  {
+    "name": "no_mouth",
+    "unicode": "😶",
+    "keywords": ["no", "mouth", "silence", "speechless"]
+  },
+  { "name": "smirk", "unicode": "😏", "keywords": ["smirk", "smug"] },
+  {
+    "name": "unamused",
+    "unicode": "😒",
+    "keywords": ["unamused", "annoyed", "meh"]
+  },
+  {
+    "name": "rolling_eyes",
+    "unicode": "🙄",
+    "keywords": ["rolling", "eyes", "annoyed"]
+  },
+  {
+    "name": "grimacing",
+    "unicode": "😬",
+    "keywords": ["grimace", "awkward", "nervous"]
+  },
+  {
+    "name": "lying",
+    "unicode": "🤥",
+    "keywords": ["lying", "pinocchio", "lie"]
+  },
+  {
+    "name": "relieved",
+    "unicode": "😌",
+    "keywords": ["relieved", "calm", "peace"]
+  },
+  {
+    "name": "disappointed",
+    "unicode": "😞",
+    "keywords": ["disappointed", "sad", "down"]
+  },
+  {
+    "name": "pensive",
+    "unicode": "😔",
+    "keywords": ["pensive", "sad", "down"]
+  },
+  {
+    "name": "sleepy",
+    "unicode": "😪",
+    "keywords": ["sleepy", "tired", "sleep"]
+  },
+  {
+    "name": "drooling",
+    "unicode": "🤤",
+    "keywords": ["drool", "drooling", "hungry"]
+  },
+  {
+    "name": "sleeping",
+    "unicode": "😴",
+    "keywords": ["sleep", "sleeping", "zzz"]
+  },
+  {
+    "name": "mask",
+    "unicode": "😷",
+    "keywords": ["mask", "sick", "ill", "doctor"]
+  },
+  {
+    "name": "face_with_thermometer",
+    "unicode": "🤒",
+    "keywords": ["thermometer", "sick", "ill", "fever"]
+  },
+  {
+    "name": "face_with_head_bandage",
+    "unicode": "🤕",
+    "keywords": ["bandage", "hurt", "injured"]
+  },
+  {
+    "name": "nauseated",
+    "unicode": "🤢",
+    "keywords": ["nauseous", "sick", "disgusted"]
+  },
+  {
+    "name": "vomiting",
+    "unicode": "🤮",
+    "keywords": ["vomit", "sick", "puke"]
+  },
+  {
+    "name": "sneezing",
+    "unicode": "🤧",
+    "keywords": ["sneeze", "sick", "achoo"]
+  },
+  { "name": "hot", "unicode": "🥵", "keywords": ["hot", "sweat", "heat"] },
+  {
+    "name": "cold",
+    "unicode": "🥶",
+    "keywords": ["cold", "freezing", "freeze"]
+  },
+  { "name": "woozy", "unicode": "🥴", "keywords": ["woozy", "dizzy", "drunk"] },
+  {
+    "name": "dizzy",
+    "unicode": "😵",
+    "keywords": ["dizzy", "confused", "spirals"]
+  },
+  {
+    "name": "exploding_head",
+    "unicode": "🤯",
+    "keywords": ["mind", "blown", "exploding"]
+  },
+  {
+    "name": "cowboy",
+    "unicode": "🤠",
+    "keywords": ["cowboy", "hat", "western"]
+  },
+  {
+    "name": "partying",
+    "unicode": "🥳",
+    "keywords": ["party", "celebrate", "birthday"]
+  },
+  {
+    "name": "sunglasses",
+    "unicode": "😎",
+    "keywords": ["cool", "sunglasses", "shades"]
+  },
+  { "name": "nerd", "unicode": "🤓", "keywords": ["nerd", "geek", "glasses"] },
+  {
+    "name": "monocle",
+    "unicode": "🧐",
+    "keywords": ["monocle", "classy", "fancy"]
+  },
+  { "name": "confused", "unicode": "😕", "keywords": ["confused", "puzzled"] },
+  {
+    "name": "worried",
+    "unicode": "😟",
+    "keywords": ["worried", "concern", "anxious"]
+  },
+  {
+    "name": "slightly_frowning",
+    "unicode": "🙁",
+    "keywords": ["frown", "sad", "slight"]
+  },
+  { "name": "frowning", "unicode": "☹️", "keywords": ["frown", "sad"] },
+  {
+    "name": "open_mouth",
+    "unicode": "😮",
+    "keywords": ["open", "mouth", "surprised", "wow"]
+  },
+  {
+    "name": "hushed",
+    "unicode": "😯",
+    "keywords": ["hushed", "surprised", "quiet"]
+  },
+  {
+    "name": "astonished",
+    "unicode": "😲",
+    "keywords": ["astonished", "shocked", "surprised"]
+  },
+  {
+    "name": "flushed",
+    "unicode": "😳",
+    "keywords": ["flushed", "embarrassed", "blush"]
+  },
+  {
+    "name": "pleading",
+    "unicode": "🥺",
+    "keywords": ["pleading", "puppy", "eyes", "please"]
+  },
+  {
+    "name": "frowning",
+    "unicode": "😦",
+    "keywords": ["frown", "sad", "concerned"]
+  },
+  {
+    "name": "anguished",
+    "unicode": "😧",
+    "keywords": ["anguished", "distressed", "worried"]
+  },
+  {
+    "name": "fearful",
+    "unicode": "😨",
+    "keywords": ["fear", "scared", "fearful"]
+  },
+  {
+    "name": "cold_sweat",
+    "unicode": "😰",
+    "keywords": ["cold", "sweat", "nervous"]
+  },
+  {
+    "name": "disappointed_relieved",
+    "unicode": "😥",
+    "keywords": ["disappointed", "relieved", "sad"]
+  },
+  {
+    "name": "cry",
+    "unicode": "😢",
+    "keywords": ["cry", "sad", "tear", "crying"]
+  },
+  {
+    "name": "sob",
+    "unicode": "😭",
+    "keywords": ["sob", "crying", "tears", "bawling"]
+  },
+  {
+    "name": "scream",
+    "unicode": "😱",
+    "keywords": ["scream", "scared", "afraid", "horror"]
+  },
+  {
+    "name": "confounded",
+    "unicode": "😖",
+    "keywords": ["confounded", "frustrated", "confused"]
+  },
+  {
+    "name": "persevere",
+    "unicode": "😣",
+    "keywords": ["persevere", "struggling", "helpless"]
+  },
+
+  {
+    "name": "sweat",
+    "unicode": "😓",
+    "keywords": ["sweat", "nervous", "hard"]
+  },
+  {
+    "name": "weary",
+    "unicode": "😩",
+    "keywords": ["weary", "tired", "exhausted"]
+  },
+  {
+    "name": "tired",
+    "unicode": "😫",
+    "keywords": ["tired", "exhausted", "fed", "up"]
+  },
+  {
+    "name": "yawning",
+    "unicode": "🥱",
+    "keywords": ["yawn", "tired", "bored"]
+  },
+  {
+    "name": "triumph",
+    "unicode": "😤",
+    "keywords": ["triumph", "proud", "steam"]
+  },
+  { "name": "rage", "unicode": "😡", "keywords": ["rage", "angry", "mad"] },
+  { "name": "angry", "unicode": "😠", "keywords": ["angry", "mad", "annoyed"] },
+  {
+    "name": "cursing",
+    "unicode": "🤬",
+    "keywords": ["cursing", "swearing", "symbols"]
+  },
+  {
+    "name": "smiling_imp",
+    "unicode": "😈",
+    "keywords": ["imp", "devil", "evil", "horns"]
+  },
+  {
+    "name": "imp",
+    "unicode": "👿",
+    "keywords": ["imp", "devil", "angry", "evil"]
+  },
+  { "name": "skull", "unicode": "💀", "keywords": ["skull", "dead", "death"] },
+  {
+    "name": "skull_crossbones",
+    "unicode": "☠️",
+    "keywords": ["skull", "crossbones", "poison", "death"]
+  },
+  { "name": "poop", "unicode": "💩", "keywords": ["poop", "shit", "crap"] },
+  {
+    "name": "clown",
+    "unicode": "🤡",
+    "keywords": ["clown", "joker", "circus"]
+  },
+  {
+    "name": "ogre",
+    "unicode": "👹",
+    "keywords": ["ogre", "monster", "japanese"]
+  },
+  {
+    "name": "goblin",
+    "unicode": "👺",
+    "keywords": ["goblin", "monster", "japanese"]
+  },
+  {
+    "name": "ghost",
+    "unicode": "👻",
+    "keywords": ["ghost", "spooky", "halloween"]
+  },
+  {
+    "name": "alien",
+    "unicode": "👽",
+    "keywords": ["alien", "ufo", "extraterrestrial"]
+  },
+  {
+    "name": "space_invader",
+    "unicode": "👾",
+    "keywords": ["space", "invader", "game", "retro"]
+  },
+  { "name": "robot", "unicode": "🤖", "keywords": ["robot", "bot", "machine"] },
+  {
+    "name": "jack_o_lantern",
+    "unicode": "🎃",
+    "keywords": ["pumpkin", "halloween", "jack"]
+  },
+  {
+    "name": "smiley_cat",
+    "unicode": "😺",
+    "keywords": ["cat", "smile", "happy"]
+  },
+  {
+    "name": "smile_cat",
+    "unicode": "😸",
+    "keywords": ["cat", "smile", "grin"]
+  },
+  {
+    "name": "joy_cat",
+    "unicode": "😹",
+    "keywords": ["cat", "joy", "tears", "laugh"]
+  },
+  {
+    "name": "heart_eyes_cat",
+    "unicode": "😻",
+    "keywords": ["cat", "heart", "eyes", "love"]
+  },
+  {
+    "name": "smirk_cat",
+    "unicode": "😼",
+    "keywords": ["cat", "smirk", "smug"]
+  },
+  {
+    "name": "kissing_cat",
+    "unicode": "😽",
+    "keywords": ["cat", "kiss", "kissing"]
+  },
+  {
+    "name": "scream_cat",
+    "unicode": "🙀",
+    "keywords": ["cat", "scream", "scared"]
+  },
+  {
+    "name": "crying_cat",
+    "unicode": "😿",
+    "keywords": ["cat", "cry", "crying", "sad"]
+  },
+  {
+    "name": "pouting_cat",
+    "unicode": "😾",
+    "keywords": ["cat", "pouting", "angry"]
+  },
+  {
+    "name": "wave",
+    "unicode": "👋",
+    "keywords": ["wave", "hello", "hi", "bye"]
+  },
+  {
+    "name": "raised_back_of_hand",
+    "unicode": "🤚",
+    "keywords": ["hand", "raised", "back"]
+  },
+  {
+    "name": "hand_splayed",
+    "unicode": "🖐️",
+    "keywords": ["hand", "splayed", "five"]
+  },
+  {
+    "name": "raised_hand",
+    "unicode": "✋",
+    "keywords": ["hand", "raised", "stop"]
+  },
+  {
+    "name": "vulcan",
+    "unicode": "🖖",
+    "keywords": ["vulcan", "spock", "star", "trek"]
+  },
+  {
+    "name": "ok_hand",
+    "unicode": "👌",
+    "keywords": ["ok", "okay", "hand", "perfect"]
+  },
+  {
+    "name": "pinched_fingers",
+    "unicode": "🤌",
+    "keywords": ["pinched", "fingers", "italian"]
+  },
+  {
+    "name": "pinching_hand",
+    "unicode": "🤏",
+    "keywords": ["pinching", "hand", "small"]
+  },
+  {
+    "name": "v",
+    "unicode": "✌️",
+    "keywords": ["v", "peace", "victory", "two"]
+  },
+  {
+    "name": "crossed_fingers",
+    "unicode": "🤞",
+    "keywords": ["crossed", "fingers", "luck", "hope"]
+  },
+  {
+    "name": "love_you",
+    "unicode": "🤟",
+    "keywords": ["love", "you", "hand", "sign"]
+  },
+  { "name": "metal", "unicode": "🤘", "keywords": ["metal", "rock", "horns"] },
+  {
+    "name": "call_me",
+    "unicode": "🤙",
+    "keywords": ["call", "me", "shaka", "hang", "loose"]
+  },
+  {
+    "name": "point_left",
+    "unicode": "👈",
+    "keywords": ["point", "left", "finger"]
+  },
+  {
+    "name": "point_right",
+    "unicode": "👉",
+    "keywords": ["point", "right", "finger"]
+  },
+  {
+    "name": "point_up_2",
+    "unicode": "👆",
+    "keywords": ["point", "up", "finger"]
+  },
+  {
+    "name": "point_down",
+    "unicode": "👇",
+    "keywords": ["point", "down", "finger"]
+  },
+  {
+    "name": "point_up",
+    "unicode": "☝️",
+    "keywords": ["point", "up", "finger", "one"]
+  },
+  {
+    "name": "+1",
+    "unicode": "👍",
+    "keywords": ["thumbs", "up", "yes", "good", "like"]
+  },
+  {
+    "name": "thumbsup",
+    "unicode": "👍",
+    "keywords": ["thumbs", "up", "yes", "good", "like"]
+  },
+  {
+    "name": "-1",
+    "unicode": "👎",
+    "keywords": ["thumbs", "down", "no", "bad", "dislike"]
+  },
+  {
+    "name": "thumbsdown",
+    "unicode": "👎",
+    "keywords": ["thumbs", "down", "no", "bad", "dislike"]
+  },
+  { "name": "fist", "unicode": "✊", "keywords": ["fist", "punch", "power"] },
+  {
+    "name": "facepunch",
+    "unicode": "👊",
+    "keywords": ["punch", "fist", "bump"]
+  },
+  {
+    "name": "left_facing_fist",
+    "unicode": "🤛",
+    "keywords": ["fist", "left", "bump"]
+  },
+  {
+    "name": "right_facing_fist",
+    "unicode": "🤜",
+    "keywords": ["fist", "right", "bump"]
+  },
+  {
+    "name": "clap",
+    "unicode": "👏",
+    "keywords": ["clap", "applause", "hands"]
+  },
+  {
+    "name": "raised_hands",
+    "unicode": "🙌",
+    "keywords": ["raised", "hands", "celebrate", "hooray"]
+  },
+  {
+    "name": "open_hands",
+    "unicode": "👐",
+    "keywords": ["open", "hands", "hug"]
+  },
+  {
+    "name": "palms_up",
+    "unicode": "🤲",
+    "keywords": ["palms", "up", "prayer"]
+  },
+  {
+    "name": "handshake",
+    "unicode": "🤝",
+    "keywords": ["handshake", "deal", "agreement"]
+  },
+  {
+    "name": "pray",
+    "unicode": "🙏",
+    "keywords": ["pray", "prayer", "thank", "you", "please"]
+  },
+  {
+    "name": "writing_hand",
+    "unicode": "✍️",
+    "keywords": ["writing", "hand", "pen", "write"]
+  },
+  {
+    "name": "nail_care",
+    "unicode": "💅",
+    "keywords": ["nail", "care", "polish", "manicure"]
+  },
+  {
+    "name": "selfie",
+    "unicode": "🤳",
+    "keywords": ["selfie", "phone", "camera"]
+  },
+  {
+    "name": "muscle",
+    "unicode": "💪",
+    "keywords": ["muscle", "strong", "flex", "bicep"]
+  },
+  {
+    "name": "mechanical_arm",
+    "unicode": "🦾",
+    "keywords": ["mechanical", "arm", "prosthetic"]
+  },
+  {
+    "name": "mechanical_leg",
+    "unicode": "🦿",
+    "keywords": ["mechanical", "leg", "prosthetic"]
+  },
+  { "name": "leg", "unicode": "🦵", "keywords": ["leg", "kick"] },
+  { "name": "foot", "unicode": "🦶", "keywords": ["foot", "stomp"] },
+  { "name": "ear", "unicode": "👂", "keywords": ["ear", "listen", "hear"] },
+  {
+    "name": "ear_with_hearing_aid",
+    "unicode": "🦻",
+    "keywords": ["ear", "hearing", "aid"]
+  },
+  { "name": "nose", "unicode": "👃", "keywords": ["nose", "smell"] },
+  { "name": "brain", "unicode": "🧠", "keywords": ["brain", "smart", "think"] },
+  {
+    "name": "anatomical_heart",
+    "unicode": "🫀",
+    "keywords": ["heart", "anatomical", "organ"]
+  },
+  {
+    "name": "lungs",
+    "unicode": "🫁",
+    "keywords": ["lungs", "breathe", "organ"]
+  },
+  { "name": "tooth", "unicode": "🦷", "keywords": ["tooth", "dental"] },
+  { "name": "bone", "unicode": "🦴", "keywords": ["bone", "skeleton"] },
+  {
+    "name": "eyes",
+    "unicode": "👀",
+    "keywords": ["eyes", "look", "see", "watching"]
+  },
+  { "name": "eye", "unicode": "👁️", "keywords": ["eye", "look", "see"] },
+  {
+    "name": "tongue",
+    "unicode": "👅",
+    "keywords": ["tongue", "lick", "taste"]
+  },
+  { "name": "lips", "unicode": "👄", "keywords": ["lips", "mouth", "kiss"] },
+  { "name": "baby", "unicode": "👶", "keywords": ["baby", "infant"] },
+  { "name": "child", "unicode": "🧒", "keywords": ["child", "kid", "young"] },
+  { "name": "boy", "unicode": "👦", "keywords": ["boy", "child", "kid"] },
+  { "name": "girl", "unicode": "👧", "keywords": ["girl", "child", "kid"] },
+  { "name": "person", "unicode": "🧑", "keywords": ["person", "adult"] },
+  { "name": "man", "unicode": "👨", "keywords": ["man", "male", "adult"] },
+  {
+    "name": "woman",
+    "unicode": "👩",
+    "keywords": ["woman", "female", "adult"]
+  },
+  {
+    "name": "older_adult",
+    "unicode": "🧓",
+    "keywords": ["older", "adult", "senior"]
+  },
+  {
+    "name": "older_man",
+    "unicode": "👴",
+    "keywords": ["older", "man", "senior", "grandpa"]
+  },
+  {
+    "name": "older_woman",
+    "unicode": "👵",
+    "keywords": ["older", "woman", "senior", "grandma"]
+  },
+  { "name": "heart", "unicode": "❤️", "keywords": ["heart", "love", "red"] },
+  {
+    "name": "orange_heart",
+    "unicode": "🧡",
+    "keywords": ["orange", "heart", "love"]
+  },
+  {
+    "name": "yellow_heart",
+    "unicode": "💛",
+    "keywords": ["yellow", "heart", "love"]
+  },
+  {
+    "name": "green_heart",
+    "unicode": "💚",
+    "keywords": ["green", "heart", "love"]
+  },
+  {
+    "name": "blue_heart",
+    "unicode": "💙",
+    "keywords": ["blue", "heart", "love"]
+  },
+  {
+    "name": "purple_heart",
+    "unicode": "💜",
+    "keywords": ["purple", "heart", "love"]
+  },
+  {
+    "name": "brown_heart",
+    "unicode": "🤎",
+    "keywords": ["brown", "heart", "love"]
+  },
+  {
+    "name": "black_heart",
+    "unicode": "🖤",
+    "keywords": ["black", "heart", "love"]
+  },
+  {
+    "name": "white_heart",
+    "unicode": "🤍",
+    "keywords": ["white", "heart", "love"]
+  },
+  {
+    "name": "broken_heart",
+    "unicode": "💔",
+    "keywords": ["broken", "heart", "sad", "breakup"]
+  },
+  {
+    "name": "sparkling_heart",
+    "unicode": "💖",
+    "keywords": ["sparkling", "heart", "love"]
+  },
+  {
+    "name": "heartpulse",
+    "unicode": "💗",
+    "keywords": ["heart", "pulse", "love"]
+  },
+  {
+    "name": "heartbeat",
+    "unicode": "💓",
+    "keywords": ["heartbeat", "love", "pulse"]
+  },
+  {
+    "name": "revolving_hearts",
+    "unicode": "💞",
+    "keywords": ["revolving", "hearts", "love"]
+  },
+  {
+    "name": "two_hearts",
+    "unicode": "💕",
+    "keywords": ["two", "hearts", "love"]
+  },
+  {
+    "name": "cupid",
+    "unicode": "💘",
+    "keywords": ["cupid", "arrow", "heart", "love"]
+  },
+  {
+    "name": "gift_heart",
+    "unicode": "💝",
+    "keywords": ["gift", "heart", "love", "present"]
+  },
+  {
+    "name": "heart_decoration",
+    "unicode": "💟",
+    "keywords": ["heart", "decoration", "love"]
+  },
+  { "name": "peace", "unicode": "☮️", "keywords": ["peace", "symbol"] },
+  { "name": "star", "unicode": "⭐", "keywords": ["star", "favorite"] },
+  {
+    "name": "star2",
+    "unicode": "🌟",
+    "keywords": ["star", "glowing", "shining"]
+  },
+  {
+    "name": "sparkles",
+    "unicode": "✨",
+    "keywords": ["sparkles", "shiny", "magic"]
+  },
+  {
+    "name": "zap",
+    "unicode": "⚡",
+    "keywords": ["zap", "lightning", "bolt", "electricity"]
+  },
+  {
+    "name": "fire",
+    "unicode": "🔥",
+    "keywords": ["fire", "flame", "hot", "lit"]
+  },
+  {
+    "name": "boom",
+    "unicode": "💥",
+    "keywords": ["boom", "explosion", "bang"]
+  },
+  {
+    "name": "comet",
+    "unicode": "☄️",
+    "keywords": ["comet", "meteor", "space"]
+  },
+  { "name": "sun", "unicode": "☀️", "keywords": ["sun", "sunny", "weather"] },
+  {
+    "name": "partly_sunny",
+    "unicode": "⛅",
+    "keywords": ["partly", "sunny", "cloud", "weather"]
+  },
+  { "name": "cloud", "unicode": "☁️", "keywords": ["cloud", "weather"] },
+  {
+    "name": "rain_cloud",
+    "unicode": "🌧️",
+    "keywords": ["rain", "cloud", "weather"]
+  },
+  {
+    "name": "thunder_cloud",
+    "unicode": "⛈️",
+    "keywords": ["thunder", "cloud", "storm", "weather"]
+  },
+  {
+    "name": "rainbow",
+    "unicode": "🌈",
+    "keywords": ["rainbow", "colors", "weather"]
+  },
+  {
+    "name": "snowflake",
+    "unicode": "❄️",
+    "keywords": ["snowflake", "snow", "cold", "winter"]
+  },
+  {
+    "name": "snowman",
+    "unicode": "⛄",
+    "keywords": ["snowman", "snow", "winter"]
+  },
+  {
+    "name": "snowman2",
+    "unicode": "☃️",
+    "keywords": ["snowman", "snow", "winter"]
+  },
+  {
+    "name": "umbrella",
+    "unicode": "☂️",
+    "keywords": ["umbrella", "rain", "weather"]
+  },
+  {
+    "name": "umbrella2",
+    "unicode": "☔",
+    "keywords": ["umbrella", "rain", "drops"]
+  },
+  {
+    "name": "water_drop",
+    "unicode": "💧",
+    "keywords": ["water", "drop", "droplet"]
+  },
+  {
+    "name": "ocean",
+    "unicode": "🌊",
+    "keywords": ["ocean", "wave", "water", "sea"]
+  },
+  { "name": "fog", "unicode": "🌫️", "keywords": ["fog", "weather", "cloudy"] },
+  {
+    "name": "rocket",
+    "unicode": "🚀",
+    "keywords": ["rocket", "space", "launch"]
+  },
+  {
+    "name": "airplane",
+    "unicode": "✈️",
+    "keywords": ["airplane", "plane", "flight"]
+  },
+  {
+    "name": "helicopter",
+    "unicode": "🚁",
+    "keywords": ["helicopter", "flight"]
+  },
+  {
+    "name": "car",
+    "unicode": "🚗",
+    "keywords": ["car", "automobile", "vehicle"]
+  },
+  {
+    "name": "bus",
+    "unicode": "🚌",
+    "keywords": ["bus", "vehicle", "transport"]
+  },
+  {
+    "name": "train",
+    "unicode": "🚆",
+    "keywords": ["train", "railway", "transport"]
+  },
+  {
+    "name": "bike",
+    "unicode": "🚴",
+    "keywords": ["bike", "bicycle", "cycling"]
+  },
+  { "name": "clock", "unicode": "🕐", "keywords": ["clock", "time", "one"] },
+  { "name": "alarm", "unicode": "⏰", "keywords": ["alarm", "clock", "wake"] },
+  {
+    "name": "stopwatch",
+    "unicode": "⏱️",
+    "keywords": ["stopwatch", "timer", "time"]
+  },
+  {
+    "name": "hourglass",
+    "unicode": "⌛",
+    "keywords": ["hourglass", "time", "sand"]
+  },
+  { "name": "watch", "unicode": "⌚", "keywords": ["watch", "time", "wrist"] },
+  { "name": "new_moon", "unicode": "🌑", "keywords": ["new", "moon", "dark"] },
+  {
+    "name": "waxing_crescent_moon",
+    "unicode": "🌒",
+    "keywords": ["waxing", "crescent", "moon"]
+  },
+  {
+    "name": "first_quarter_moon",
+    "unicode": "🌓",
+    "keywords": ["first", "quarter", "moon"]
+  },
+  {
+    "name": "waxing_gibbous_moon",
+    "unicode": "🌔",
+    "keywords": ["waxing", "gibbous", "moon"]
+  },
+  {
+    "name": "full_moon",
+    "unicode": "🌕",
+    "keywords": ["full", "moon", "bright"]
+  },
+  {
+    "name": "waning_gibbous_moon",
+    "unicode": "🌖",
+    "keywords": ["waning", "gibbous", "moon"]
+  },
+  {
+    "name": "last_quarter_moon",
+    "unicode": "🌗",
+    "keywords": ["last", "quarter", "moon"]
+  },
+  {
+    "name": "waning_crescent_moon",
+    "unicode": "🌘",
+    "keywords": ["waning", "crescent", "moon"]
+  },
+  {
+    "name": "crescent_moon",
+    "unicode": "🌙",
+    "keywords": ["crescent", "moon", "night"]
+  },
+  {
+    "name": "earth_americas",
+    "unicode": "🌎",
+    "keywords": ["earth", "americas", "world", "globe"]
+  },
+  {
+    "name": "earth_africa",
+    "unicode": "🌍",
+    "keywords": ["earth", "africa", "world", "globe"]
+  },
+  {
+    "name": "earth_asia",
+    "unicode": "🌏",
+    "keywords": ["earth", "asia", "world", "globe"]
+  },
+  {
+    "name": "pizza",
+    "unicode": "🍕",
+    "keywords": ["pizza", "food", "italian"]
+  },
+  {
+    "name": "hamburger",
+    "unicode": "🍔",
+    "keywords": ["hamburger", "burger", "food"]
+  },
+  { "name": "fries", "unicode": "🍟", "keywords": ["fries", "french", "food"] },
+  {
+    "name": "hotdog",
+    "unicode": "🌭",
+    "keywords": ["hotdog", "hot", "dog", "food"]
+  },
+  { "name": "taco", "unicode": "🌮", "keywords": ["taco", "food", "mexican"] },
+  {
+    "name": "burrito",
+    "unicode": "🌯",
+    "keywords": ["burrito", "food", "mexican"]
+  },
+  {
+    "name": "sandwich",
+    "unicode": "🥪",
+    "keywords": ["sandwich", "food", "bread"]
+  },
+  {
+    "name": "salad",
+    "unicode": "🥗",
+    "keywords": ["salad", "food", "healthy", "green"]
+  },
+  {
+    "name": "popcorn",
+    "unicode": "🍿",
+    "keywords": ["popcorn", "movie", "snack"]
+  },
+  {
+    "name": "cookie",
+    "unicode": "🍪",
+    "keywords": ["cookie", "dessert", "sweet"]
+  },
+  { "name": "cake", "unicode": "🍰", "keywords": ["cake", "dessert", "slice"] },
+  {
+    "name": "birthday",
+    "unicode": "🎂",
+    "keywords": ["birthday", "cake", "celebration"]
+  },
+  {
+    "name": "cupcake",
+    "unicode": "🧁",
+    "keywords": ["cupcake", "dessert", "sweet"]
+  },
+  { "name": "pie", "unicode": "🥧", "keywords": ["pie", "dessert", "food"] },
+  {
+    "name": "chocolate_bar",
+    "unicode": "🍫",
+    "keywords": ["chocolate", "bar", "sweet"]
+  },
+  {
+    "name": "candy",
+    "unicode": "🍬",
+    "keywords": ["candy", "sweet", "wrapper"]
+  },
+  {
+    "name": "lollipop",
+    "unicode": "🍭",
+    "keywords": ["lollipop", "candy", "sweet"]
+  },
+  {
+    "name": "icecream",
+    "unicode": "🍦",
+    "keywords": ["ice", "cream", "dessert", "soft", "serve"]
+  },
+  {
+    "name": "ice_cream",
+    "unicode": "🍨",
+    "keywords": ["ice", "cream", "dessert", "bowl"]
+  },
+  {
+    "name": "doughnut",
+    "unicode": "🍩",
+    "keywords": ["doughnut", "donut", "dessert"]
+  },
+  {
+    "name": "coffee",
+    "unicode": "☕",
+    "keywords": ["coffee", "drink", "hot", "caffeine"]
+  },
+  { "name": "tea", "unicode": "🍵", "keywords": ["tea", "drink", "hot"] },
+  {
+    "name": "sake",
+    "unicode": "🍶",
+    "keywords": ["sake", "drink", "alcohol", "japanese"]
+  },
+  {
+    "name": "champagne",
+    "unicode": "🍾",
+    "keywords": ["champagne", "drink", "celebration", "bottle"]
+  },
+  {
+    "name": "wine_glass",
+    "unicode": "🍷",
+    "keywords": ["wine", "glass", "drink", "alcohol"]
+  },
+  {
+    "name": "cocktail",
+    "unicode": "🍸",
+    "keywords": ["cocktail", "drink", "martini", "alcohol"]
+  },
+  {
+    "name": "tropical_drink",
+    "unicode": "🍹",
+    "keywords": ["tropical", "drink", "cocktail"]
+  },
+  {
+    "name": "beer",
+    "unicode": "🍺",
+    "keywords": ["beer", "drink", "alcohol", "mug"]
+  },
+  {
+    "name": "beers",
+    "unicode": "🍻",
+    "keywords": ["beers", "drink", "cheers", "celebration"]
+  },
+  {
+    "name": "champagne_glass",
+    "unicode": "🥂",
+    "keywords": ["champagne", "glass", "cheers", "celebration"]
+  },
+  {
+    "name": "tumbler_glass",
+    "unicode": "🥃",
+    "keywords": ["tumbler", "glass", "whiskey", "drink"]
+  },
+  { "name": "milk", "unicode": "🥛", "keywords": ["milk", "drink", "glass"] },
+  { "name": "apple", "unicode": "🍎", "keywords": ["apple", "fruit", "red"] },
+  {
+    "name": "green_apple",
+    "unicode": "🍏",
+    "keywords": ["green", "apple", "fruit"]
+  },
+  {
+    "name": "orange",
+    "unicode": "🍊",
+    "keywords": ["orange", "fruit", "citrus"]
+  },
+  {
+    "name": "lemon",
+    "unicode": "🍋",
+    "keywords": ["lemon", "fruit", "citrus", "sour"]
+  },
+  {
+    "name": "banana",
+    "unicode": "🍌",
+    "keywords": ["banana", "fruit", "yellow"]
+  },
+  {
+    "name": "watermelon",
+    "unicode": "🍉",
+    "keywords": ["watermelon", "fruit", "melon"]
+  },
+  {
+    "name": "grapes",
+    "unicode": "🍇",
+    "keywords": ["grapes", "fruit", "purple"]
+  },
+  {
+    "name": "strawberry",
+    "unicode": "🍓",
+    "keywords": ["strawberry", "fruit", "berry", "red"]
+  },
+  {
+    "name": "cherries",
+    "unicode": "🍒",
+    "keywords": ["cherries", "fruit", "red"]
+  },
+  { "name": "peach", "unicode": "🍑", "keywords": ["peach", "fruit", "butt"] },
+  {
+    "name": "pineapple",
+    "unicode": "🍍",
+    "keywords": ["pineapple", "fruit", "tropical"]
+  },
+  {
+    "name": "coconut",
+    "unicode": "🥥",
+    "keywords": ["coconut", "fruit", "tropical"]
+  },
+  { "name": "kiwi", "unicode": "🥝", "keywords": ["kiwi", "fruit", "green"] },
+  {
+    "name": "avocado",
+    "unicode": "🥑",
+    "keywords": ["avocado", "fruit", "green"]
+  },
+  {
+    "name": "tomato",
+    "unicode": "🍅",
+    "keywords": ["tomato", "vegetable", "fruit", "red"]
+  },
+  {
+    "name": "eggplant",
+    "unicode": "🍆",
+    "keywords": ["eggplant", "vegetable", "purple", "aubergine"]
+  },
+  {
+    "name": "broccoli",
+    "unicode": "🥦",
+    "keywords": ["broccoli", "vegetable", "green"]
+  },
+  {
+    "name": "carrot",
+    "unicode": "🥕",
+    "keywords": ["carrot", "vegetable", "orange"]
+  },
+  {
+    "name": "corn",
+    "unicode": "🌽",
+    "keywords": ["corn", "vegetable", "cob", "maize"]
+  },
+  {
+    "name": "hot_pepper",
+    "unicode": "🌶️",
+    "keywords": ["hot", "pepper", "chili", "spicy"]
+  },
+  { "name": "potato", "unicode": "🥔", "keywords": ["potato", "vegetable"] },
+  { "name": "mushroom", "unicode": "🍄", "keywords": ["mushroom", "fungus"] },
+  {
+    "name": "peanuts",
+    "unicode": "🥜",
+    "keywords": ["peanuts", "nuts", "food"]
+  },
+  {
+    "name": "chestnut",
+    "unicode": "🌰",
+    "keywords": ["chestnut", "nut", "food"]
+  },
+  { "name": "bread", "unicode": "🍞", "keywords": ["bread", "loaf", "food"] },
+  {
+    "name": "croissant",
+    "unicode": "🥐",
+    "keywords": ["croissant", "bread", "french"]
+  },
+  {
+    "name": "baguette",
+    "unicode": "🥖",
+    "keywords": ["baguette", "bread", "french"]
+  },
+  {
+    "name": "pretzel",
+    "unicode": "🥨",
+    "keywords": ["pretzel", "bread", "snack"]
+  },
+  {
+    "name": "pancakes",
+    "unicode": "🥞",
+    "keywords": ["pancakes", "breakfast", "food"]
+  },
+  {
+    "name": "waffle",
+    "unicode": "🧇",
+    "keywords": ["waffle", "breakfast", "food"]
+  },
+  {
+    "name": "cheese",
+    "unicode": "🧀",
+    "keywords": ["cheese", "dairy", "food"]
+  },
+  {
+    "name": "bacon",
+    "unicode": "🥓",
+    "keywords": ["bacon", "meat", "breakfast"]
+  },
+  { "name": "egg", "unicode": "🥚", "keywords": ["egg", "food"] },
+  {
+    "name": "fried_egg",
+    "unicode": "🍳",
+    "keywords": ["fried", "egg", "cooking", "breakfast"]
+  },
+  {
+    "name": "stuffed_flatbread",
+    "unicode": "🥙",
+    "keywords": ["stuffed", "flatbread", "food"]
+  },
+  {
+    "name": "meat_on_bone",
+    "unicode": "🍖",
+    "keywords": ["meat", "bone", "food"]
+  },
+  {
+    "name": "poultry_leg",
+    "unicode": "🍗",
+    "keywords": ["poultry", "leg", "chicken", "food"]
+  },
+  {
+    "name": "sushi",
+    "unicode": "🍣",
+    "keywords": ["sushi", "japanese", "food", "fish"]
+  },
+  {
+    "name": "bento",
+    "unicode": "🍱",
+    "keywords": ["bento", "box", "japanese", "food"]
+  },
+  { "name": "rice", "unicode": "🍚", "keywords": ["rice", "food", "bowl"] },
+  {
+    "name": "rice_ball",
+    "unicode": "🍙",
+    "keywords": ["rice", "ball", "japanese", "onigiri"]
+  },
+  {
+    "name": "rice_cracker",
+    "unicode": "🍘",
+    "keywords": ["rice", "cracker", "japanese"]
+  },
+  {
+    "name": "ramen",
+    "unicode": "🍜",
+    "keywords": ["ramen", "noodles", "japanese", "food"]
+  },
+  {
+    "name": "spaghetti",
+    "unicode": "🍝",
+    "keywords": ["spaghetti", "pasta", "italian", "food"]
+  },
+  {
+    "name": "curry",
+    "unicode": "🍛",
+    "keywords": ["curry", "indian", "food", "spicy"]
+  },
+  { "name": "stew", "unicode": "🍲", "keywords": ["stew", "food", "pot"] },
+  {
+    "name": "dumpling",
+    "unicode": "🥟",
+    "keywords": ["dumpling", "food", "gyoza"]
+  },
+  {
+    "name": "oyster",
+    "unicode": "🦪",
+    "keywords": ["oyster", "seafood", "shell"]
+  },
+  {
+    "name": "shrimp",
+    "unicode": "🦐",
+    "keywords": ["shrimp", "seafood", "prawn"]
+  },
+  {
+    "name": "squid",
+    "unicode": "🦑",
+    "keywords": ["squid", "seafood", "octopus"]
+  },
+  { "name": "lobster", "unicode": "🦞", "keywords": ["lobster", "seafood"] },
+  {
+    "name": "crab",
+    "unicode": "🦀",
+    "keywords": ["crab", "seafood", "cancer"]
+  },
+  {
+    "name": "fish",
+    "unicode": "🐟",
+    "keywords": ["fish", "animal", "seafood"]
+  },
+  {
+    "name": "tropical_fish",
+    "unicode": "🐠",
+    "keywords": ["tropical", "fish", "animal"]
+  },
+  {
+    "name": "blowfish",
+    "unicode": "🐡",
+    "keywords": ["blowfish", "fish", "puffer"]
+  },
+  {
+    "name": "dolphin",
+    "unicode": "🐬",
+    "keywords": ["dolphin", "animal", "sea"]
+  },
+  { "name": "shark", "unicode": "🦈", "keywords": ["shark", "animal", "fish"] },
+  {
+    "name": "whale",
+    "unicode": "🐳",
+    "keywords": ["whale", "animal", "spouting"]
+  },
+  {
+    "name": "whale2",
+    "unicode": "🐋",
+    "keywords": ["whale", "animal", "ocean"]
+  },
+  {
+    "name": "crocodile",
+    "unicode": "🐊",
+    "keywords": ["crocodile", "animal", "alligator"]
+  },
+  {
+    "name": "turtle",
+    "unicode": "🐢",
+    "keywords": ["turtle", "animal", "slow"]
+  },
+  {
+    "name": "lizard",
+    "unicode": "🦎",
+    "keywords": ["lizard", "animal", "reptile"]
+  },
+  {
+    "name": "snake",
+    "unicode": "🐍",
+    "keywords": ["snake", "animal", "serpent"]
+  },
+  {
+    "name": "dragon",
+    "unicode": "🐉",
+    "keywords": ["dragon", "animal", "fantasy"]
+  },
+  {
+    "name": "dinosaur",
+    "unicode": "🦕",
+    "keywords": ["dinosaur", "animal", "prehistoric", "sauropod"]
+  },
+  {
+    "name": "t_rex",
+    "unicode": "🦖",
+    "keywords": ["t", "rex", "dinosaur", "tyrannosaurus"]
+  },
+  {
+    "name": "monkey",
+    "unicode": "🐒",
+    "keywords": ["monkey", "animal", "primate"]
+  },
+  {
+    "name": "monkey_face",
+    "unicode": "🐵",
+    "keywords": ["monkey", "face", "animal"]
+  },
+  {
+    "name": "see_no_evil",
+    "unicode": "🙈",
+    "keywords": ["see", "no", "evil", "monkey", "eyes"]
+  },
+  {
+    "name": "hear_no_evil",
+    "unicode": "🙉",
+    "keywords": ["hear", "no", "evil", "monkey", "ears"]
+  },
+  {
+    "name": "speak_no_evil",
+    "unicode": "🙊",
+    "keywords": ["speak", "no", "evil", "monkey", "mouth"]
+  },
+  {
+    "name": "gorilla",
+    "unicode": "🦍",
+    "keywords": ["gorilla", "animal", "ape"]
+  },
+  {
+    "name": "orangutan",
+    "unicode": "🦧",
+    "keywords": ["orangutan", "animal", "ape"]
+  },
+  {
+    "name": "dog",
+    "unicode": "🐕",
+    "keywords": ["dog", "animal", "pet", "puppy"]
+  },
+  {
+    "name": "dog2",
+    "unicode": "🐶",
+    "keywords": ["dog", "face", "animal", "pet"]
+  },
+  {
+    "name": "guide_dog",
+    "unicode": "🦮",
+    "keywords": ["guide", "dog", "service", "blind"]
+  },
+  {
+    "name": "poodle",
+    "unicode": "🐩",
+    "keywords": ["poodle", "dog", "animal"]
+  },
+  { "name": "wolf", "unicode": "🐺", "keywords": ["wolf", "animal", "face"] },
+  { "name": "fox", "unicode": "🦊", "keywords": ["fox", "animal", "face"] },
+  { "name": "raccoon", "unicode": "🦝", "keywords": ["raccoon", "animal"] },
+  { "name": "cat", "unicode": "🐈", "keywords": ["cat", "animal", "pet"] },
+  {
+    "name": "cat2",
+    "unicode": "🐱",
+    "keywords": ["cat", "face", "animal", "pet"]
+  },
+  {
+    "name": "lion",
+    "unicode": "🦁",
+    "keywords": ["lion", "animal", "face", "king"]
+  },
+  { "name": "tiger", "unicode": "🐯", "keywords": ["tiger", "face", "animal"] },
+  { "name": "tiger2", "unicode": "🐅", "keywords": ["tiger", "animal"] },
+  {
+    "name": "leopard",
+    "unicode": "🐆",
+    "keywords": ["leopard", "animal", "spots"]
+  },
+  { "name": "horse", "unicode": "🐴", "keywords": ["horse", "face", "animal"] },
+  {
+    "name": "racehorse",
+    "unicode": "🐎",
+    "keywords": ["racehorse", "horse", "racing", "animal"]
+  },
+  {
+    "name": "unicorn",
+    "unicode": "🦄",
+    "keywords": ["unicorn", "fantasy", "animal", "face"]
+  },
+  {
+    "name": "zebra",
+    "unicode": "🦓",
+    "keywords": ["zebra", "animal", "stripes"]
+  },
+  { "name": "deer", "unicode": "🦌", "keywords": ["deer", "animal"] },
+  { "name": "cow", "unicode": "🐮", "keywords": ["cow", "face", "animal"] },
+  { "name": "ox", "unicode": "🐂", "keywords": ["ox", "animal", "bull"] },
+  {
+    "name": "water_buffalo",
+    "unicode": "🐃",
+    "keywords": ["water", "buffalo", "animal"]
+  },
+  { "name": "cow2", "unicode": "🐄", "keywords": ["cow", "animal", "dairy"] },
+  { "name": "pig", "unicode": "🐷", "keywords": ["pig", "face", "animal"] },
+  { "name": "pig2", "unicode": "🐖", "keywords": ["pig", "animal"] },
+  { "name": "boar", "unicode": "🐗", "keywords": ["boar", "pig", "animal"] },
+  { "name": "ram", "unicode": "🐏", "keywords": ["ram", "sheep", "animal"] },
+  { "name": "sheep", "unicode": "🐑", "keywords": ["sheep", "animal", "lamb"] },
+  { "name": "goat", "unicode": "🐐", "keywords": ["goat", "animal"] },
+  {
+    "name": "camel",
+    "unicode": "🐪",
+    "keywords": ["camel", "animal", "dromedary"]
+  },
+  {
+    "name": "dromedary_camel",
+    "unicode": "🐫",
+    "keywords": ["camel", "animal", "two", "hump"]
+  },
+  {
+    "name": "llama",
+    "unicode": "🦙",
+    "keywords": ["llama", "animal", "alpaca"]
+  },
+  {
+    "name": "giraffe",
+    "unicode": "🦒",
+    "keywords": ["giraffe", "animal", "tall"]
+  },
+  { "name": "elephant", "unicode": "🐘", "keywords": ["elephant", "animal"] },
+  {
+    "name": "mammoth",
+    "unicode": "🦣",
+    "keywords": ["mammoth", "elephant", "extinct"]
+  },
+  {
+    "name": "rhino",
+    "unicode": "🦏",
+    "keywords": ["rhino", "rhinoceros", "animal"]
+  },
+  {
+    "name": "hippo",
+    "unicode": "🦛",
+    "keywords": ["hippo", "hippopotamus", "animal"]
+  },
+  { "name": "mouse", "unicode": "🐭", "keywords": ["mouse", "face", "animal"] },
+  {
+    "name": "mouse2",
+    "unicode": "🐁",
+    "keywords": ["mouse", "animal", "rodent"]
+  },
+  { "name": "rat", "unicode": "🐀", "keywords": ["rat", "animal", "rodent"] },
+  {
+    "name": "hamster",
+    "unicode": "🐹",
+    "keywords": ["hamster", "face", "animal", "pet"]
+  },
+  {
+    "name": "rabbit",
+    "unicode": "🐰",
+    "keywords": ["rabbit", "face", "animal", "bunny"]
+  },
+  {
+    "name": "rabbit2",
+    "unicode": "🐇",
+    "keywords": ["rabbit", "animal", "bunny"]
+  },
+  {
+    "name": "chipmunk",
+    "unicode": "🐿️",
+    "keywords": ["chipmunk", "animal", "squirrel"]
+  },
+  { "name": "beaver", "unicode": "🦫", "keywords": ["beaver", "animal"] },
+  {
+    "name": "hedgehog",
+    "unicode": "🦔",
+    "keywords": ["hedgehog", "animal", "spiny"]
+  },
+  { "name": "bat", "unicode": "🦇", "keywords": ["bat", "animal", "vampire"] },
+  { "name": "bear", "unicode": "🐻", "keywords": ["bear", "face", "animal"] },
+  {
+    "name": "polar_bear",
+    "unicode": "🐻‍❄️",
+    "keywords": ["polar", "bear", "animal", "arctic"]
+  },
+  { "name": "koala", "unicode": "🐨", "keywords": ["koala", "animal", "face"] },
+  { "name": "panda", "unicode": "🐼", "keywords": ["panda", "face", "animal"] },
+  { "name": "sloth", "unicode": "🦥", "keywords": ["sloth", "animal", "slow"] },
+  { "name": "otter", "unicode": "🦦", "keywords": ["otter", "animal"] },
+  {
+    "name": "skunk",
+    "unicode": "🦨",
+    "keywords": ["skunk", "animal", "stink"]
+  },
+  {
+    "name": "kangaroo",
+    "unicode": "🦘",
+    "keywords": ["kangaroo", "animal", "marsupial"]
+  },
+  { "name": "badger", "unicode": "🦡", "keywords": ["badger", "animal"] },
+  {
+    "name": "paw_prints",
+    "unicode": "🐾",
+    "keywords": ["paw", "prints", "animal", "feet"]
+  },
+  { "name": "bird", "unicode": "🐦", "keywords": ["bird", "animal", "flying"] },
+  {
+    "name": "penguin",
+    "unicode": "🐧",
+    "keywords": ["penguin", "bird", "animal"]
+  },
+  { "name": "dove", "unicode": "🕊️", "keywords": ["dove", "bird", "peace"] },
+  { "name": "eagle", "unicode": "🦅", "keywords": ["eagle", "bird", "animal"] },
+  { "name": "duck", "unicode": "🦆", "keywords": ["duck", "bird", "animal"] },
+  { "name": "swan", "unicode": "🦢", "keywords": ["swan", "bird", "animal"] },
+  {
+    "name": "owl",
+    "unicode": "🦉",
+    "keywords": ["owl", "bird", "animal", "wise"]
+  },
+  { "name": "dodo", "unicode": "🦤", "keywords": ["dodo", "bird", "extinct"] },
+  {
+    "name": "flamingo",
+    "unicode": "🦩",
+    "keywords": ["flamingo", "bird", "pink"]
+  },
+  {
+    "name": "peacock",
+    "unicode": "🦚",
+    "keywords": ["peacock", "bird", "proud"]
+  },
+  { "name": "parrot", "unicode": "🦜", "keywords": ["parrot", "bird", "talk"] },
+  {
+    "name": "bug",
+    "unicode": "🐛",
+    "keywords": ["bug", "insect", "caterpillar"]
+  },
+  {
+    "name": "butterfly",
+    "unicode": "🦋",
+    "keywords": ["butterfly", "insect", "pretty"]
+  },
+  { "name": "snail", "unicode": "🐌", "keywords": ["snail", "slow", "shell"] },
+  { "name": "bee", "unicode": "🐝", "keywords": ["bee", "insect", "honey"] },
+  {
+    "name": "beetle",
+    "unicode": "🪲",
+    "keywords": ["beetle", "insect", "bug"]
+  },
+  { "name": "ant", "unicode": "🐜", "keywords": ["ant", "insect", "bug"] },
+  { "name": "fly", "unicode": "🪰", "keywords": ["fly", "insect", "bug"] },
+  {
+    "name": "mosquito",
+    "unicode": "🦟",
+    "keywords": ["mosquito", "insect", "bug", "bite"]
+  },
+  {
+    "name": "cricket",
+    "unicode": "🦗",
+    "keywords": ["cricket", "insect", "bug"]
+  },
+  {
+    "name": "spider",
+    "unicode": "🕷️",
+    "keywords": ["spider", "insect", "bug"]
+  },
+  {
+    "name": "spider_web",
+    "unicode": "🕸️",
+    "keywords": ["spider", "web", "cobweb"]
+  },
+  {
+    "name": "scorpion",
+    "unicode": "🦂",
+    "keywords": ["scorpion", "animal", "arachnid"]
+  },
+  {
+    "name": "bouquet",
+    "unicode": "💐",
+    "keywords": ["bouquet", "flowers", "gift"]
+  },
+  {
+    "name": "cherry_blossom",
+    "unicode": "🌸",
+    "keywords": ["cherry", "blossom", "flower", "spring"]
+  },
+  {
+    "name": "rose",
+    "unicode": "🌹",
+    "keywords": ["rose", "flower", "love", "red"]
+  },
+  {
+    "name": "wilted_rose",
+    "unicode": "🥀",
+    "keywords": ["wilted", "rose", "flower", "dead"]
+  },
+  { "name": "hibiscus", "unicode": "🌺", "keywords": ["hibiscus", "flower"] },
+  {
+    "name": "sunflower",
+    "unicode": "🌻",
+    "keywords": ["sunflower", "flower", "sun"]
+  },
+  { "name": "blossom", "unicode": "🌼", "keywords": ["blossom", "flower"] },
+  { "name": "tulip", "unicode": "🌷", "keywords": ["tulip", "flower"] },
+  {
+    "name": "seedling",
+    "unicode": "🌱",
+    "keywords": ["seedling", "plant", "sprout"]
+  },
+  {
+    "name": "evergreen",
+    "unicode": "🌲",
+    "keywords": ["evergreen", "tree", "pine"]
+  },
+  {
+    "name": "deciduous_tree",
+    "unicode": "🌳",
+    "keywords": ["deciduous", "tree"]
+  },
+  {
+    "name": "palm_tree",
+    "unicode": "🌴",
+    "keywords": ["palm", "tree", "tropical"]
+  },
+  {
+    "name": "cactus",
+    "unicode": "🌵",
+    "keywords": ["cactus", "plant", "desert"]
+  },
+  {
+    "name": "four_leaf_clover",
+    "unicode": "🍀",
+    "keywords": ["four", "leaf", "clover", "luck"]
+  },
+  {
+    "name": "shamrock",
+    "unicode": "☘️",
+    "keywords": ["shamrock", "clover", "irish"]
+  },
+  {
+    "name": "maple_leaf",
+    "unicode": "🍁",
+    "keywords": ["maple", "leaf", "canada", "fall"]
+  },
+  {
+    "name": "fallen_leaf",
+    "unicode": "🍂",
+    "keywords": ["fallen", "leaf", "autumn", "fall"]
+  },
+  {
+    "name": "leaves",
+    "unicode": "🍃",
+    "keywords": ["leaves", "leaf", "flutter", "wind"]
+  },
+  {
+    "name": "soccer",
+    "unicode": "⚽",
+    "keywords": ["soccer", "ball", "football", "sport"]
+  },
+  {
+    "name": "basketball",
+    "unicode": "🏀",
+    "keywords": ["basketball", "ball", "sport"]
+  },
+  {
+    "name": "football",
+    "unicode": "🏈",
+    "keywords": ["football", "ball", "sport", "american"]
+  },
+  {
+    "name": "baseball",
+    "unicode": "⚾",
+    "keywords": ["baseball", "ball", "sport"]
+  },
+  {
+    "name": "tennis",
+    "unicode": "🎾",
+    "keywords": ["tennis", "ball", "sport"]
+  },
+  {
+    "name": "volleyball",
+    "unicode": "🏐",
+    "keywords": ["volleyball", "ball", "sport"]
+  },
+  {
+    "name": "8ball",
+    "unicode": "🎱",
+    "keywords": ["8", "ball", "billiards", "pool"]
+  },
+  {
+    "name": "ping_pong",
+    "unicode": "🏓",
+    "keywords": ["ping", "pong", "table", "tennis"]
+  },
+  {
+    "name": "trophy",
+    "unicode": "🏆",
+    "keywords": ["trophy", "win", "award", "champion"]
+  },
+  { "name": "medal", "unicode": "🏅", "keywords": ["medal", "award", "win"] },
+  {
+    "name": "first_place",
+    "unicode": "🥇",
+    "keywords": ["first", "place", "medal", "gold"]
+  },
+  {
+    "name": "second_place",
+    "unicode": "🥈",
+    "keywords": ["second", "place", "medal", "silver"]
+  },
+  {
+    "name": "third_place",
+    "unicode": "🥉",
+    "keywords": ["third", "place", "medal", "bronze"]
+  },
+  {
+    "name": "dart",
+    "unicode": "🎯",
+    "keywords": ["dart", "target", "bullseye"]
+  },
+  {
+    "name": "bow_and_arrow",
+    "unicode": "🏹",
+    "keywords": ["bow", "arrow", "archery"]
+  },
+  {
+    "name": "fishing_pole",
+    "unicode": "🎣",
+    "keywords": ["fishing", "pole", "fish"]
+  },
+  {
+    "name": "running_shirt",
+    "unicode": "🎽",
+    "keywords": ["running", "shirt", "sport"]
+  },
+  { "name": "ski", "unicode": "🎿", "keywords": ["ski", "snow", "sport"] },
+  {
+    "name": "video_game",
+    "unicode": "🎮",
+    "keywords": ["video", "game", "controller", "gaming"]
+  },
+  {
+    "name": "joystick",
+    "unicode": "🕹️",
+    "keywords": ["joystick", "game", "gaming"]
+  },
+  {
+    "name": "game_die",
+    "unicode": "🎲",
+    "keywords": ["game", "die", "dice", "roll"]
+  },
+  {
+    "name": "chess_pawn",
+    "unicode": "♟️",
+    "keywords": ["chess", "pawn", "game"]
+  },
+  {
+    "name": "musical_note",
+    "unicode": "🎵",
+    "keywords": ["musical", "note", "music"]
+  },
+  {
+    "name": "notes",
+    "unicode": "🎶",
+    "keywords": ["notes", "music", "musical"]
+  },
+  {
+    "name": "microphone",
+    "unicode": "🎤",
+    "keywords": ["microphone", "sing", "karaoke"]
+  },
+  {
+    "name": "headphones",
+    "unicode": "🎧",
+    "keywords": ["headphones", "music", "audio"]
+  },
+  {
+    "name": "guitar",
+    "unicode": "🎸",
+    "keywords": ["guitar", "music", "instrument"]
+  },
+  {
+    "name": "trumpet",
+    "unicode": "🎺",
+    "keywords": ["trumpet", "music", "instrument"]
+  },
+  {
+    "name": "saxophone",
+    "unicode": "🎷",
+    "keywords": ["saxophone", "music", "instrument", "sax"]
+  },
+  {
+    "name": "violin",
+    "unicode": "🎻",
+    "keywords": ["violin", "music", "instrument"]
+  },
+  {
+    "name": "drum",
+    "unicode": "🥁",
+    "keywords": ["drum", "music", "instrument"]
+  },
+  {
+    "name": "clapper",
+    "unicode": "🎬",
+    "keywords": ["clapper", "board", "movie", "film"]
+  },
+  { "name": "bow", "unicode": "🎀", "keywords": ["bow", "ribbon", "gift"] },
+  {
+    "name": "gift",
+    "unicode": "🎁",
+    "keywords": ["gift", "present", "birthday"]
+  },
+  {
+    "name": "balloon",
+    "unicode": "🎈",
+    "keywords": ["balloon", "party", "celebration"]
+  },
+  {
+    "name": "tada",
+    "unicode": "🎉",
+    "keywords": ["tada", "party", "celebration", "confetti"]
+  },
+  {
+    "name": "confetti_ball",
+    "unicode": "🎊",
+    "keywords": ["confetti", "ball", "party", "celebration"]
+  },
+  {
+    "name": "tanabata_tree",
+    "unicode": "🎋",
+    "keywords": ["tanabata", "tree", "wish"]
+  },
+  {
+    "name": "bamboo",
+    "unicode": "🎍",
+    "keywords": ["bamboo", "plant", "decoration"]
+  },
+  {
+    "name": "dolls",
+    "unicode": "🎎",
+    "keywords": ["dolls", "japanese", "festival"]
+  },
+  {
+    "name": "flags",
+    "unicode": "🎏",
+    "keywords": ["flags", "carp", "streamer"]
+  },
+  {
+    "name": "wind_chime",
+    "unicode": "🎐",
+    "keywords": ["wind", "chime", "bell"]
+  },
+  {
+    "name": "ribbon",
+    "unicode": "🎀",
+    "keywords": ["ribbon", "bow", "decoration"]
+  },
+  {
+    "name": "crystal_ball",
+    "unicode": "🔮",
+    "keywords": ["crystal", "ball", "fortune", "magic"]
+  },
+  { "name": "gem", "unicode": "💎", "keywords": ["gem", "diamond", "jewel"] },
+  {
+    "name": "ring",
+    "unicode": "💍",
+    "keywords": ["ring", "diamond", "engagement", "marriage"]
+  },
+  {
+    "name": "crown",
+    "unicode": "👑",
+    "keywords": ["crown", "king", "queen", "royal"]
+  },
+  {
+    "name": "money_with_wings",
+    "unicode": "💸",
+    "keywords": ["money", "wings", "dollar", "fly"]
+  },
+  {
+    "name": "dollar",
+    "unicode": "💵",
+    "keywords": ["dollar", "money", "bill"]
+  },
+  {
+    "name": "yen",
+    "unicode": "💴",
+    "keywords": ["yen", "money", "bill", "japanese"]
+  },
+  { "name": "euro", "unicode": "💶", "keywords": ["euro", "money", "bill"] },
+  {
+    "name": "pound",
+    "unicode": "💷",
+    "keywords": ["pound", "money", "bill", "british"]
+  },
+  {
+    "name": "moneybag",
+    "unicode": "💰",
+    "keywords": ["money", "bag", "dollar", "rich"]
+  },
+  {
+    "name": "credit_card",
+    "unicode": "💳",
+    "keywords": ["credit", "card", "money", "payment"]
+  },
+  {
+    "name": "computer",
+    "unicode": "💻",
+    "keywords": ["computer", "laptop", "pc"]
+  },
+  {
+    "name": "keyboard",
+    "unicode": "⌨️",
+    "keywords": ["keyboard", "type", "computer"]
+  },
+  {
+    "name": "desktop",
+    "unicode": "🖥️",
+    "keywords": ["desktop", "computer", "monitor"]
+  },
+  {
+    "name": "printer",
+    "unicode": "🖨️",
+    "keywords": ["printer", "print", "paper"]
+  },
+  {
+    "name": "mouse_three_button",
+    "unicode": "🖱️",
+    "keywords": ["mouse", "computer", "click"]
+  },
+  {
+    "name": "trackball",
+    "unicode": "🖲️",
+    "keywords": ["trackball", "computer"]
+  },
+  { "name": "joystick", "unicode": "🕹️", "keywords": ["joystick", "game"] },
+  {
+    "name": "clamp",
+    "unicode": "🗜️",
+    "keywords": ["clamp", "compress", "tool"]
+  },
+  { "name": "disk", "unicode": "💾", "keywords": ["disk", "floppy", "save"] },
+  {
+    "name": "minidisc",
+    "unicode": "💿",
+    "keywords": ["cd", "disc", "disk", "optical"]
+  },
+  { "name": "dvd", "unicode": "📀", "keywords": ["dvd", "disc", "disk"] },
+  { "name": "vhs", "unicode": "📼", "keywords": ["vhs", "tape", "video"] },
+  {
+    "name": "camera",
+    "unicode": "📷",
+    "keywords": ["camera", "photo", "picture"]
+  },
+  {
+    "name": "camera_with_flash",
+    "unicode": "📸",
+    "keywords": ["camera", "flash", "photo"]
+  },
+  {
+    "name": "video_camera",
+    "unicode": "📹",
+    "keywords": ["video", "camera", "record"]
+  },
+  {
+    "name": "movie_camera",
+    "unicode": "🎥",
+    "keywords": ["movie", "camera", "film"]
+  },
+  {
+    "name": "telephone",
+    "unicode": "☎️",
+    "keywords": ["telephone", "phone", "call"]
+  },
+  {
+    "name": "phone",
+    "unicode": "📱",
+    "keywords": ["phone", "mobile", "cell", "smartphone"]
+  },
+  {
+    "name": "iphone",
+    "unicode": "📱",
+    "keywords": ["iphone", "phone", "mobile", "smartphone"]
+  },
+  { "name": "pager", "unicode": "📟", "keywords": ["pager", "beeper"] },
+  { "name": "fax", "unicode": "📠", "keywords": ["fax", "machine"] },
+  { "name": "tv", "unicode": "📺", "keywords": ["tv", "television", "screen"] },
+  {
+    "name": "radio",
+    "unicode": "📻",
+    "keywords": ["radio", "podcast", "music"]
+  },
+  {
+    "name": "microphone2",
+    "unicode": "🎙️",
+    "keywords": ["microphone", "studio", "podcast"]
+  },
+  {
+    "name": "level_slider",
+    "unicode": "🎚️",
+    "keywords": ["level", "slider", "audio"]
+  },
+  {
+    "name": "control_knobs",
+    "unicode": "🎛️",
+    "keywords": ["control", "knobs", "audio"]
+  },
+  { "name": "battery", "unicode": "🔋", "keywords": ["battery", "power"] },
+  {
+    "name": "electric_plug",
+    "unicode": "🔌",
+    "keywords": ["electric", "plug", "power"]
+  },
+  { "name": "bulb", "unicode": "💡", "keywords": ["bulb", "light", "idea"] },
+  {
+    "name": "flashlight",
+    "unicode": "🔦",
+    "keywords": ["flashlight", "torch", "light"]
+  },
+  {
+    "name": "candle",
+    "unicode": "🕯️",
+    "keywords": ["candle", "light", "flame"]
+  },
+  {
+    "name": "hourglass_flowing_sand",
+    "unicode": "⏳",
+    "keywords": ["hourglass", "flowing", "sand", "time"]
+  },
+  {
+    "name": "mag",
+    "unicode": "🔍",
+    "keywords": ["mag", "magnifying", "glass", "search", "left"]
+  },
+  {
+    "name": "mag_right",
+    "unicode": "🔎",
+    "keywords": ["mag", "magnifying", "glass", "search", "right"]
+  },
+  { "name": "lock", "unicode": "🔒", "keywords": ["lock", "closed", "secure"] },
+  {
+    "name": "unlock",
+    "unicode": "🔓",
+    "keywords": ["unlock", "open", "unsecure"]
+  },
+  {
+    "name": "lock_with_key",
+    "unicode": "🔐",
+    "keywords": ["lock", "key", "secure"]
+  },
+  { "name": "key", "unicode": "🔑", "keywords": ["key", "lock", "password"] },
+  { "name": "key2", "unicode": "🗝️", "keywords": ["key", "old", "lock"] },
+  {
+    "name": "hammer",
+    "unicode": "🔨",
+    "keywords": ["hammer", "tool", "build"]
+  },
+  { "name": "axe", "unicode": "🪓", "keywords": ["axe", "tool", "chop"] },
+  { "name": "pick", "unicode": "⛏️", "keywords": ["pick", "tool", "mine"] },
+  {
+    "name": "hammer_pick",
+    "unicode": "⚒️",
+    "keywords": ["hammer", "pick", "tool"]
+  },
+  {
+    "name": "hammer_and_wrench",
+    "unicode": "🛠️",
+    "keywords": ["hammer", "wrench", "tool", "fix"]
+  },
+  {
+    "name": "dagger",
+    "unicode": "🗡️",
+    "keywords": ["dagger", "knife", "weapon"]
+  },
+  {
+    "name": "crossed_swords",
+    "unicode": "⚔️",
+    "keywords": ["crossed", "swords", "weapon", "battle"]
+  },
+  {
+    "name": "gun",
+    "unicode": "🔫",
+    "keywords": ["gun", "pistol", "weapon", "water"]
+  },
+  {
+    "name": "bow_and_arrow",
+    "unicode": "🏹",
+    "keywords": ["bow", "arrow", "weapon"]
+  },
+  {
+    "name": "shield",
+    "unicode": "🛡️",
+    "keywords": ["shield", "protection", "defend"]
+  },
+  { "name": "wrench", "unicode": "🔧", "keywords": ["wrench", "tool", "fix"] },
+  {
+    "name": "nut_and_bolt",
+    "unicode": "🔩",
+    "keywords": ["nut", "bolt", "tool"]
+  },
+  { "name": "gear", "unicode": "⚙️", "keywords": ["gear", "cog", "settings"] },
+  { "name": "link", "unicode": "🔗", "keywords": ["link", "chain", "url"] },
+  { "name": "chains", "unicode": "⛓️", "keywords": ["chains", "link", "lock"] },
+  {
+    "name": "syringe",
+    "unicode": "💉",
+    "keywords": ["syringe", "needle", "vaccine", "shot"]
+  },
+  { "name": "pill", "unicode": "💊", "keywords": ["pill", "medicine", "drug"] },
+  {
+    "name": "smoking",
+    "unicode": "🚬",
+    "keywords": ["smoking", "cigarette", "smoke"]
+  },
+  {
+    "name": "coffin",
+    "unicode": "⚰️",
+    "keywords": ["coffin", "death", "funeral"]
+  },
+  { "name": "urn", "unicode": "⚱️", "keywords": ["urn", "ashes", "death"] },
+  {
+    "name": "moyai",
+    "unicode": "🗿",
+    "keywords": ["moyai", "moai", "statue", "easter", "island"]
+  },
+  { "name": "oil", "unicode": "🛢️", "keywords": ["oil", "drum", "barrel"] },
+  {
+    "name": "thought_balloon",
+    "unicode": "💭",
+    "keywords": ["thought", "balloon", "thinking"]
+  },
+  {
+    "name": "speech_balloon",
+    "unicode": "💬",
+    "keywords": ["speech", "balloon", "talk", "chat"]
+  },
+  {
+    "name": "100",
+    "unicode": "💯",
+    "keywords": ["100", "hundred", "perfect", "score"]
+  },
+  { "name": "zzz", "unicode": "💤", "keywords": ["zzz", "sleep", "sleeping"] },
+  {
+    "name": "dash",
+    "unicode": "💨",
+    "keywords": ["dash", "wind", "fast", "smoke"]
+  },
+  {
+    "name": "checkmark",
+    "unicode": "✅",
+    "keywords": ["checkmark", "check", "yes", "done"]
+  },
+  { "name": "x", "unicode": "❌", "keywords": ["x", "cross", "no", "wrong"] },
+  {
+    "name": "heavy_check_mark",
+    "unicode": "✔️",
+    "keywords": ["heavy", "check", "mark", "yes"]
+  },
+  {
+    "name": "bangbang",
+    "unicode": "‼️",
+    "keywords": ["bangbang", "exclamation", "double"]
+  },
+  {
+    "name": "interrobang",
+    "unicode": "⁉️",
+    "keywords": ["interrobang", "question", "exclamation"]
+  },
+  {
+    "name": "question",
+    "unicode": "❓",
+    "keywords": ["question", "mark", "ask"]
+  },
+  {
+    "name": "grey_question",
+    "unicode": "❔",
+    "keywords": ["grey", "question", "mark"]
+  },
+  {
+    "name": "grey_exclamation",
+    "unicode": "❕",
+    "keywords": ["grey", "exclamation", "mark"]
+  },
+  {
+    "name": "exclamation",
+    "unicode": "❗",
+    "keywords": ["exclamation", "mark", "bang"]
+  },
+  {
+    "name": "warning",
+    "unicode": "⚠️",
+    "keywords": ["warning", "caution", "alert"]
+  }
+]

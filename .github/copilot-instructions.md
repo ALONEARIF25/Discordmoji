@@ -1,0 +1,1 @@
+- do not use emojis in the UI, or anywhere else in the codebase. This includes comments, commit messages, and documentation. Emojis can be distracting and unprofessional, and they do not add any value to the codebase.

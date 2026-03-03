@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Discordmoji Test Page</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family:
+          -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          "Helvetica Neue", Arial, sans-serif;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 40px 20px;
+        background: #f5f5f5;
+        color: #333;
+      }
+
+      h1 {
+        color: #5865f2;
+        margin-bottom: 10px;
+      }
+
+      .subtitle {
+        color: #666;
+        margin-bottom: 40px;
+      }
+
+      .test-section {
+        background: white;
+        padding: 30px;
+        border-radius: 8px;
+        margin-bottom: 30px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      .test-section h2 {
+        margin-top: 0;
+        color: #2c3e50;
+        font-size: 20px;
+      }
+
+      .test-section label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: 600;
+        color: #555;
+      }
+
+      input[type="text"],
+      input[type="email"],
+      textarea {
+        width: 100%;
+        padding: 12px;
+        border: 2px solid #ddd;
+        border-radius: 6px;
+        font-size: 15px;
+        font-family: inherit;
+        margin-bottom: 20px;
+        transition: border-color 0.2s;
+      }
+
+      input[type="text"]:focus,
+      input[type="email"]:focus,
+      textarea:focus {
+        outline: none;
+        border-color: #5865f2;
+      }
+
+      textarea {
+        min-height: 120px;
+        resize: vertical;
+      }
+
+      .contenteditable {
+        width: 100%;
+        min-height: 120px;
+        padding: 12px;
+        border: 2px solid #ddd;
+        border-radius: 6px;
+        font-size: 15px;
+        font-family: inherit;
+        background: white;
+        transition: border-color 0.2s;
+      }
+
+      .contenteditable:focus {
+        outline: none;
+        border-color: #5865f2;
+      }
+
+      .contenteditable:empty:before {
+        content: attr(data-placeholder);
+        color: #999;
+      }
+
+      .instructions {
+        background: #e8f4f8;
+        border-left: 4px solid #5865f2;
+        padding: 15px;
+        border-radius: 4px;
+        margin-bottom: 30px;
+      }
+
+      .instructions h3 {
+        margin-top: 0;
+        color: #5865f2;
+      }
+
+      .instructions ul {
+        margin: 10px 0;
+        padding-left: 20px;
+      }
+
+      .instructions li {
+        margin-bottom: 8px;
+      }
+
+      .instructions code {
+        background: #fff;
+        padding: 2px 6px;
+        border-radius: 3px;
+        font-family: monospace;
+        font-size: 13px;
+      }
+
+      .emoji-examples {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 15px;
+      }
+
+      .emoji-example {
+        background: #f8f9fa;
+        padding: 8px 12px;
+        border-radius: 4px;
+        font-size: 13px;
+        font-family: monospace;
+      }
+
+      .scrollable-section {
+        max-height: 400px;
+        overflow-y: auto;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 20px;
+        background: white;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Discordmoji Test Page</h1>
+    <p class="subtitle">
+      Test the Discord-style emoji picker in various input types
+    </p>
+
+    <div class="instructions">
+      <h3>How to Test</h3>
+      <ul>
+        <li>
+          Type <code>:</code> followed by an emoji name (e.g.,
+          <code>:smile</code>, <code>:heart</code>, <code>:fire</code>)
+        </li>
+        <li>
+          Use <code>↑</code> and <code>↓</code> arrow keys to navigate
+          suggestions
+        </li>
+        <li>
+          Press <code>Enter</code> or <code>Tab</code> to select, or click with
+          mouse
+        </li>
+        <li>Press <code>Esc</code> to close the dropdown</li>
+      </ul>
+
+      <div class="emoji-examples">
+        <span class="emoji-example">:smile</span>
+        <span class="emoji-example">:heart</span>
+        <span class="emoji-example">:fire</span>
+        <span class="emoji-example">:rocket</span>
+        <span class="emoji-example">:thumbsup</span>
+        <span class="emoji-example">:tada</span>
+        <span class="emoji-example">:thinking</span>
+        <span class="emoji-example">:joy</span>
+      </div>
+    </div>
+
+    <div class="test-section">
+      <h2>1. Text Input</h2>
+      <label for="text-input">Standard text input:</label>
+      <input type="text" id="text-input" placeholder="Type :smile to test..." />
+    </div>
+
+    <div class="test-section">
+      <h2>2. Email Input</h2>
+      <label for="email-input">Email input field:</label>
+      <input
+        type="email"
+        id="email-input"
+        placeholder="Type :heart in an email field..."
+      />
+    </div>
+
+    <div class="test-section">
+      <h2>3. Textarea</h2>
+      <label for="textarea-input">Multi-line textarea:</label>
+      <textarea
+        id="textarea-input"
+        placeholder="Type :fire in a textarea...
+You can use multiple lines here.
+Test emoji insertion anywhere in the text."
+      ></textarea>
+    </div>
+
+    <div class="test-section">
+      <h2>4. Contenteditable (Rich Text)</h2>
+      <label>Contenteditable div:</label>
+      <div
+        class="contenteditable"
+        contenteditable="true"
+        data-placeholder="Type :rocket in a contenteditable div..."
+      ></div>
+    </div>
+
+    <div class="test-section">
+      <h2>5. Scrollable Container Test</h2>
+      <p>Test that the emoji picker repositions when you scroll:</p>
+      <div class="scrollable-section">
+        <p>Scroll down and try typing emojis in the input below...</p>
+        <p style="margin: 100px 0">Lots of space...</p>
+        <input type="text" placeholder="Type :tada here after scrolling..." />
+        <p style="margin: 100px 0">More space...</p>
+        <textarea placeholder="Type :100 here too..."></textarea>
+        <p style="margin: 100px 0">Even more space...</p>
+      </div>
+    </div>
+
+    <div class="test-section">
+      <h2>6. Edge Cases</h2>
+      <label>Test these scenarios:</label>
+      <textarea
+        placeholder="1. Type : at the start of a line
+2. Type : in the middle of text
+3. Type multiple colons: :: or :::
+4. Type text:without:spaces (should not trigger)
+5. Type very long queries: :thisissuperlongandwonttrigger
+6. Mix with URLs: https://example.com"
+      >
+      </textarea>
+    </div>
+
+    <script>
+      // Add some visual feedback for testing
+      document
+        .querySelectorAll("input, textarea, [contenteditable]")
+        .forEach((el) => {
+          el.addEventListener("input", () => {
+            console.log("Input event:", el.tagName, el.value || el.textContent);
+          });
+        });
+    </script>
+  </body>
+</html>
