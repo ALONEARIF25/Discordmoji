@@ -1,6 +1,8 @@
-# TODO
+![Logo](demo/1.png)
+![Logo](demo/2.png)
 
-- download emojis locally for native support.
+> [!TIP]
+> Recommended: Download emojis locally for native support.
 
 # Discordmoji - Discord-style Emoji Picker
 
